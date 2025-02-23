@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://sungsoo-ahn.github.io/ai899-2025//sitemap.xml
+User-agent: * Disallow: Sitemap: https://sungsoo-ahn.github.io/ai899-2025/sitemap.xml
